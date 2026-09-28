@@ -108,56 +108,6 @@ I enjoy working at the intersection of **design and technology** — turning ide
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🍽️ Canteen App
-
-A modern campus food ordering experience designed to make food ordering simpler, faster and more convenient.
-
-<a href="https://github.com/aaronrthomas/canteen-app">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
----
-
-### 👥 Crowd Management
-
-A digital solution focused on improving crowd coordination, monitoring and overall user experience.
-
-<a href="https://github.com/aaronrthomas/crowd-management">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
----
-
-### 🧠 Emotional Intelligence
-
-An interactive web experience exploring emotional intelligence through modern UI and user interaction.
-
-<a href="https://github.com/aaronrthomas/emotional-intelligence">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
----
-
-### 🔧 Electronic Repair
-
-A modern web experience designed for electronic repair services.
-
-<a href="https://github.com/aaronrthomas/v0-electronic-repair-website">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
 ---
 
 ## 📊 GitHub Activity
@@ -173,8 +123,6 @@ A modern web experience designed for electronic repair services.
 <br>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=aaronrthomas&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=FFFFFF" width="70%"/>
 
 </div>
 
