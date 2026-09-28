@@ -2,11 +2,11 @@
 
 <!-- ===================== HERO ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:6E40C9&height=210&section=header&text=Aaron%20R%20Thomas&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=UI%2FUX%20Designer%20%7C%20Web%20Developer%20%7C%20Graphic%20Designer&descAlignY=59&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:6E40C9&height=210&section=header&text=Aaron%20R%20Thomas&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=UI%2FUX%20Designer%20%7C%20Web%20Developer%20%7C%20Graphic%20Designer&descAlignY=59&descSize=17&animation=fadeIn" width="100%" alt="Aaron R Thomas"/>
 
 <br>
 
-<!-- TYPING ANIMATION — NON CLICKABLE -->
+<!-- TYPING ANIMATION -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3000&pause=900&color=9B6CFF&center=true&vCenter=true&width=720&lines=Turning+ideas+into+interactive+experiences.;Designing+clean+and+meaningful+interfaces.;Building+modern+web+experiences.;Where+design+meets+technology." alt="Typing Animation"/>
 
@@ -48,6 +48,44 @@ I enjoy working at the intersection of **design and technology** — turning ide
 
 ---
 
+## ⚡ What I Do
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎨 UI/UX Design
+
+- User Interface Design
+- User Experience Design
+- Wireframing
+- Prototyping
+- Design Systems
+- Responsive Design
+- Interaction Design
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 Web Development
+
+- Frontend Development
+- React Applications
+- Next.js Websites
+- TypeScript
+- Responsive Websites
+- Interactive Experiences
+- Modern Web Interfaces
+
+</td>
+
+</tr>
+</table>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -67,15 +105,6 @@ I enjoy working at the intersection of **design and technology** — turning ide
 ### Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,cloudflare" alt="Tools and Platforms"/>
-
-</div>
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aaronrthomas&bg_color=0D1117&color=FFFFFF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 
 </div>
 
