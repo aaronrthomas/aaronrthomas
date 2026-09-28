@@ -118,12 +118,8 @@ I enjoy working at the intersection of **design and technology** — turning ide
 <img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/aaron-r-thomas-ba311931a/)">
 <img src="https://img.shields.io/badge/LINKEDIN-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://www.instagram.com/aar.on_">
-<img src="https://img.shields.io/badge/INSTAGRAM-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <a href="mailto:aaronrthomas88@gmail.com">
@@ -141,9 +137,6 @@ I enjoy working at the intersection of **design and technology** — turning ide
 ### ✦ Design. Build. Iterate. ✦
 
 *Creating digital experiences where design meets technology.*
-
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,50:161B22,100:0D1117&height=110&section=footer" width="100%" alt="Footer"/>
 
 </div>
