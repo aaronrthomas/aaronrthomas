@@ -110,34 +110,6 @@ I enjoy working at the intersection of **design and technology** — turning ide
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aaronrthomas&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&icon_color=8B5CF6&ring_color=8B5CF6" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronrthomas&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF" height="180"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aaronrthomas&bg_color=0D1117&color=FFFFFF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
