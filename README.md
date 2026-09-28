@@ -118,7 +118,7 @@ I enjoy working at the intersection of **design and technology** — turning ide
 <img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/aaron-r-thomas-ba311931a/)">
+<a href="https://www.linkedin.com/in/aaron-r-thomas-ba311931a/">
 <img src="https://img.shields.io/badge/LINKEDIN-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
