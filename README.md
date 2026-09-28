@@ -1,16 +1,61 @@
-## Hi there 👋
+Hi, I'm Aaron R Thomas 👋
 
-<!--
-**aaronrthomas/aaronrthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UI/UX Designer • Web Developer • Graphic Designer
 
-Here are some ideas to get you started:
+I design and build user-focused digital experiences that combine
+clean interfaces, strong visual design, and functional development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently:
+→ B.Tech CSE Student
+→ UI/UX Designer
+→ Web Developer
+→ Graphic Designer
+
+---
+
+## What I Do
+
+🎨 UI/UX Design
+💻 Frontend Development
+🌐 Web Development
+✨ Graphic Design
+📱 Product Design
+
+---
+
+## Tech Stack
+
+Frontend
+React • Next.js • TypeScript • JavaScript
+HTML • CSS • Tailwind CSS • Bootstrap
+
+Design
+Figma • Framer • Spline
+
+Tools
+Git • GitHub • Vercel
+
+---
+
+## Featured Projects
+
+🍽️ Canteen App
+A digital solution designed to improve the campus food ordering experience.
+
+🧠 Emotional Intelligence
+A web experience focused on emotional intelligence and user interaction.
+
+👥 Crowd Management
+A digital platform designed around efficient crowd management.
+
+🔧 Electronic Repair
+A modern website experience for electronic repair services.
+
+---
+
+## Connect With Me
+
+🌐 Portfolio
+💼 LinkedIn
+📸 Instagram
+📧 Email
