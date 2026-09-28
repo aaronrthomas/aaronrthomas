@@ -47,7 +47,6 @@ I enjoy working at the intersection of **design and technology** — turning ide
 - 📚 Pursuing B.Tech in Computer Science & Engineering
 
 ---
----
 
 ## 🛠️ Tech Stack
 
